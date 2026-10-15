@@ -1,0 +1,15 @@
+.git
+.github
+.claude
+.codex
+**/target
+/target-*
+dist
+corpus
+log
+plan
+craft-fonts
+**/.DS_Store
+**/.env
+**/.env.*
+*.log
